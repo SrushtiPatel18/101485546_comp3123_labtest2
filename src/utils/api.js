@@ -1,4 +1,3 @@
-// src/utils/api.js
 const BASE = "https://api.openweathermap.org/data/2.5";
 const KEY = process.env.REACT_APP_OWM_API_KEY;
 

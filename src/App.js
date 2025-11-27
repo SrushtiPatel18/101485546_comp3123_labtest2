@@ -1,4 +1,3 @@
-// src/App.jsx
 import React, { useState } from "react";
 import SearchBar from "./components/SearchBar";
 import WeatherCard from "./components/WeatherCard";
